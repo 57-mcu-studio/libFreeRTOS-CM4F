@@ -1,0 +1,7 @@
+# Compiler generated artifacts
+*.a
+
+# Eclipse Project files
+.cproject
+.project
+.settings
